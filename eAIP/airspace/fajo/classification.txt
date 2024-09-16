@@ -1,0 +1,9 @@
+===== Classification | FAJO Johannesburg Oceanic Flight Information Region =====
+
+^ Class ^ Type of flights   ^ Separation provided   ^ Service provided  ^ Speed limitation      ^ Radio communication requirement       ^ Subject to an ATC clearance ^ Remarks ^
+| A     | IFR only          | All aircraft          | ATC service       | Not applicable        | Continuous two-way                    | Yes | - |
+| G     | IFR               | NIL                   | Flight information service | 250 kt IAS below 3050m (10 000 ft) AMSL | Continuous two-way | No | - | 
+| :::   | VFR               | NIL                   | Flight information service | 250 kt IAS below 3050m (10 000 ft) AMSL | Continuous two-way | No | - | 
+
+
+{{page>fa-footer#FAJO}}

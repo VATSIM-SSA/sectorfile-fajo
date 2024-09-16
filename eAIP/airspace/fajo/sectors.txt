@@ -1,0 +1,16 @@
+===== Sectors | FAJO Johannesburg Oceanic Flight Information Region =====
+
+==== Johannesburg Oceanic ====
+
+^ Position  ^ Callsign               ^ Frequency ^ CPDLC ^ Remarks ^
+| FAJO_FSS  | Johannesburg Oceanic   | 120.850   | FAJO | - |
+| FAJO_1_FSS  | Johannesburg Oceanic | 120.650   | FAJO | These are Event Support positions Only |
+| FAJO_2_FSS  | Johannesburg Oceanic | 120.450   | FAJO | These are Event Support positions Only |
+| FAJO_3_FSS  | Johannesburg Oceanic | 120.900   | FAJO | These are Event Support positions Only |
+
+^ Airspace      ^ Class ^ Owner     ^ Limits        ^ Remarks ^
+| Johannesburg Oceanic   | A     | FAJO_FSS  | FL245 - FL460   | - |
+| Johannesburg Oceanic   | G     | DNKK_CTR  | GND - FL245 or FL460 and Above | - |
+
+
+{{page>fa-footer#FAJO}}

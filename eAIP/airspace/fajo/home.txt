@@ -1,0 +1,6 @@
+===== FAJO | Johannesburg Oceanic| FAJO =====
+
+{{tabembed>about|About,classification|Classification,sectors|Sectors,rules|Rules,fbgr-loa|Agreements,alias:std|Alias}}
+
+
+{{page>fa-footer#FAJO}}
